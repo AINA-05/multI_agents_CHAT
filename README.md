@@ -1,4 +1,5 @@
-# Multi-Agent Chat System
+
+## Multi-Agent Chat System
 
 A collaborative Multi-Agent System (MAS) designed to answer user queries through a network of specialized agents. This system demonstrates role separation, inter-agent coordination, and adaptive memory.
 
@@ -6,7 +7,7 @@ A collaborative Multi-Agent System (MAS) designed to answer user queries through
 
 The system consists of a **Coordinator Agent** that manages three worker agents:
 
-1.  **Research Agent**: Retrieves information from a simulated knowledge base.
+1.  **Research Agent**: Retrieves information from a simulated Knowledge Base.
 2.  **Analysis Agent**: Processes data, compares concepts, and summarizes findings.
 3.  **Memory Agent**: Manages long-term persistence (JSON) and retrieval (Vector Search + TF-IDF).
 
